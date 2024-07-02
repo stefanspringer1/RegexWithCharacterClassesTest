@@ -17,7 +17,7 @@ let package = Package(
             targets: ["RegexWithCharacterClassesTest"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/stefanspringer1/RegexWithCharacterClasses.git", from: "0.0.17"),
+        .package(url: "https://github.com/stefanspringer1/RegexWithCharacterClasses.git", from: "0.0.18"),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.

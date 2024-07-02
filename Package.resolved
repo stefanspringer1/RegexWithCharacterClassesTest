@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/stefanspringer1/RegexWithCharacterClasses.git",
       "state" : {
-        "revision" : "cb15630ae5227e12de112f7ece73a42a78bdb802",
-        "version" : "0.0.17"
+        "revision" : "7d65278cdb9a1eb4069d8f3a7d39aeb8aed8ac08",
+        "version" : "0.0.18"
       }
     },
     {
@@ -41,8 +41,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/stefanspringer1/SwiftUtilities.git",
       "state" : {
-        "revision" : "95464d61663f0fe532f0b514a3015fafe01fbd9f",
-        "version" : "0.1.35"
+        "revision" : "b056a6524ecec1b21743984010346600abd30b68",
+        "version" : "0.1.36"
       }
     }
   ],
