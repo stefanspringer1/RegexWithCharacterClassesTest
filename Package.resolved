@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/stefanspringer1/RegexWithCharacterClasses.git",
       "state" : {
-        "revision" : "149979f03ed284147f055f664514a4ebd0b74433",
-        "version" : "0.0.16"
+        "revision" : "cb15630ae5227e12de112f7ece73a42a78bdb802",
+        "version" : "0.0.17"
       }
     },
     {
